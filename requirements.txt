@@ -1,3 +1,5 @@
-openai
 streamlit
+Pillow
+openai
+googlemaps
 python-dotenv
